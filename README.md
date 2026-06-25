@@ -1,90 +1,47 @@
-# Hi, I’m Erkin Tuna Gumustas
+# Hi, I’m Erkin 👋
 
-I’m a Statistics student at Michigan State University with an interest in software development, IT support, data tools, Linux, scripting, and game engine development.
+I’m a Statistics student at Michigan State University interested in software development, IT support, Linux, data tools, and game engine development.
 
-I use this GitHub to share public demos, technical documentation, and project case studies. Some of my larger projects are private because they are active long-term personal projects, but I can discuss their architecture, design decisions, and technical challenges in interviews.
+I like building projects that help me understand how systems work under the hood, from debugging and scripting to larger long-term software projects.
 
-## About Me
+## What I’m working on
 
-* Statistics BS student at Michigan State University
-* Expected graduation: May 2027
-* Based in East Lansing, Michigan
-* Native Turkish speaker
-* English proficiency: IELTS 7.5
-* Former Electronics Captain for FRC Team 6838
+* Building a private custom 2D game engine
+* Learning Linux scripting and automation
+* Creating small technical tools and demos
+* Practicing data analysis with Python, R, MATLAB, and Power BI
+* Improving my Git/GitHub workflow and technical documentation
 
-## Technical Interests
+## Tech I use
 
-* Software development
-* IT support and troubleshooting
-* Linux and shell scripting
-* Game engine development
-* Data analysis and visualization
-* Technical documentation
+```text
+Python      C++      Linux      Bash
+MATLAB      RStudio  Power BI   Git/GitHub
+Qt          Boost    Vegas 13
+```
 
-## Skills
+## Featured work
 
-* Python
-* C++
-* Boost and Qt libraries
-* MATLAB
-* RStudio
-* Power BI
-* Git and GitHub
-* Vegas 13 video editing software
-* Hardware/software troubleshooting
+### Fish Engine
 
-## Experience
+A private custom 2D game engine project focused on learning engine architecture, debugging, platform setup, and long-term C++ project organization.
 
-### Website Development Intern
+The source code is private, but I share public case studies, screenshots, notes, and documentation about the project.
 
-**Daydream Technologies**
-East Lansing, MI
-January 2025 – May 2025
+### Linux / Scripting Labs
 
-Worked on website development tasks while building experience in technical problem-solving, communication, and software-related workflows.
+Small scripts and command-line projects focused on automation, troubleshooting, and learning how Linux systems work.
 
-### Software Development Intern
+### Technical Documentation
 
-**Sensorsan Sensing Technology**
-Ankara, Turkey
-June 2024 – July 2024
+Public notes, checklists, and writeups that show my troubleshooting process and how I explain technical problems clearly.
 
-Gained experience in software development and technical project work in a professional environment.
+## Background
 
-### Technical Intern
+I have experience through software, website development, and technical internships, and I was formerly the Electronics Captain for FRC Team 6838.
 
-**Biz Consulting A.S.**
-Bursa, Turkey
-July 2023 – August 2023
+## Private projects
 
-Worked in a technical internship role and gained exposure to professional technology and business workflows.
+Some of my larger projects are private because they are active personal projects. Public repositories here are used for selected demos, writeups, documentation, and case studies.
 
-## Featured Projects
-
-### Fish Engine — Private Custom Game Engine
-
-Fish Engine is my personal custom 2D game engine project. The source code is private because it is an active long-term project, but I am creating public case studies and documentation to show the project’s structure, goals, and development process.
-
-Skills shown:
-
-* C++
-* Engine architecture
-* Debugging
-* Platform detection
-* Git workflow
-* Long-term project organization
-
-### Linux Scripting Practice
-
-Small shell scripting projects and command-line tools built to improve my Linux, automation, and troubleshooting skills.
-
-### IT Support Documentation
-
-Public troubleshooting notes, setup checklists, and technical documentation that show my ability to explain and solve computer/software issues clearly.
-
-## Note About Private Projects
-
-Some of my larger projects are private because they are still active or contain personal work. Public repositories on this profile are used to show selected demos, case studies, documentation, and smaller technical projects.
-
-I am happy to discuss my private projects, design choices, and technical learning process in an interview.
+I’m happy to discuss project architecture, technical decisions, and what I learned from private projects in interviews.
