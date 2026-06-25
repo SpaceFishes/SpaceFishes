@@ -1,4 +1,4 @@
-# Hi, I’m Erkin 👋
+# Hi, I’m Erkin 
 
 I’m a Statistics student at Michigan State University interested in software development, IT support, Linux, data tools, and game engine development.
 
